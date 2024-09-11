@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Grisha009/THREEJSGame/issues"
   },
-  "homepage": "https://github.com/Grisha009/THREEJSGame#readme"
+  "homepage": "https://github.com/Grisha009/THREEJSGame#readme",
+  "devDependencies": {
+    "three": "^0.168.0"
+  }
 }
